@@ -1,6 +1,6 @@
 # Open Library
 
-![](https://github.com/internetarchive/openlibrary/actions/workflows/python_tests.yml/badge.svg)![](https://github.com/internetarchive/openlibrary/actions/workflows/javascript_tests.yml/badge.svg)
+![](https://github.com/internetarchive/openlibrary/actions/workflows/javascript_tests.yml/badge.svg)
 ![](https://img.shields.io/github/contributors/internetarchive/openlibrary.svg)
 
 [Open Library](https://openlibrary.org) is an open, editable library catalog, building towards a web page for every book ever published.
